@@ -1,3 +1,3 @@
 # Fruit-Ninja-opencv-cvzone
-![IMG_20221116_203931](https://user-images.githubusercontent.com/93220185/203622307-e5d0b400-c79c-4c49-907d-77928e86eb4e.jpg)
+![Screenshot 2022-12-10 203547](https://user-images.githubusercontent.com/93220185/206872477-ce52ddc8-1f00-4c02-b901-3db84f10d417.png)
  Play Fruit Ninja using Hand Gestures Python Opencv cvzone 
